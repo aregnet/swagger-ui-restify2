@@ -1,0 +1,3 @@
+{"total": {"lines":{"total":96,"covered":82,"skipped":0,"pct":85.41},"statements":{"total":97,"covered":83,"skipped":0,"pct":85.56},"functions":{"total":13,"covered":12,"skipped":0,"pct":92.3},"branches":{"total":59,"covered":47,"skipped":0,"pct":79.66},"branchesTrue":{"total":0,"covered":0,"skipped":0,"pct":"Unknown"}}
+,"C:\\_Sources\\Packages\\swagger-ui-restify2\\index.js": {"lines":{"total":96,"covered":82,"skipped":0,"pct":85.41},"functions":{"total":13,"covered":12,"skipped":0,"pct":92.3},"statements":{"total":97,"covered":83,"skipped":0,"pct":85.56},"branches":{"total":59,"covered":47,"skipped":0,"pct":79.66}}
+}
